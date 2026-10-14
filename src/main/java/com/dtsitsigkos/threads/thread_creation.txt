@@ -1,0 +1,7 @@
+Extending the Thread class
+Implementing the Runnable interface
+Implementing the Callable interface with an executor
+Using ExecutorService and thread pools
+Using CompletableFuture
+Using virtual threads (Java 21+)
+Using ForkJoinPool

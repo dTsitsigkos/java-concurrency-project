@@ -1,0 +1,15 @@
+synchronized method
+synchronized block
+ReentrantLock
+ReadWriteLock
+StampedLock
+Semaphore
+CountDownLatch
+CyclicBarrier
+Phaser
+Condition
+Atomic classes (AtomicInteger, AtomicLong, etc.)
+volatile keyword
+BlockingQueue
+Monitor (intrinsic locking)
+LockSupport (park() / unpark())
